@@ -45,7 +45,7 @@ if (!$err) {
 git add .
 git commit -m "feat: initial commit php curl rest client for newsapi"
 git branch -M main
-git remote add origin https://github.com/USERNAME_ANDA/nama-repository.git
+git remote add origin https://github.com/davinamaya67-coder/rest-client-news.git
 git push -u origin maintikum System Test - Konsumsi Public API (NewsAPI.org)</p>
         </div>
 
